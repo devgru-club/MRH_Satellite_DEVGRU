@@ -1,3 +1,6 @@
+<img src="images/laptop.jpg"></img>
+<img src="images/tablet.jpg"></img>
+
 ``
 Disclaimer: Mr. H gave permission to do this on his workshop page. Being a nice guy, he deserves every second of the respect that is about to be given. I will be helping his work move along in the coming months. This is quite literally my favorite mod.
 Especially since we operate as NAVY Seals @ https://devgru.club/site
@@ -111,5 +114,3 @@ You may use this anyway you see fit, redistribute in your unit's homemade mod is
 
 ## Check out TILk's cool ballistic missiles mod here:
  https://steamcommunity.com/sharedfiles/filedetails/?id=1383958112
-
-
