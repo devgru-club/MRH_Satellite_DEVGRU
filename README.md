@@ -27,6 +27,7 @@ _The mod now includes two new objects:_
 Both objects work together and allow for a lighter use without the need for the backpack, however when accessing the satellite from the UTD you won't have access to the fullscreen mode and its advanced options, those remain only available from a console deployed from the backpack or created from the editor.
 
 ## To use:
+
 If you have the antenna in your gear you will have the option to unfold the antenna, either from the scrollwheel menu, or if using ace from ace self interactions>>equipment.
 This will deploy the antenna in front of you. If you have ace3 enabled you can move and drag the antenna around.
 
