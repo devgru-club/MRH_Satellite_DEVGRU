@@ -1,0 +1,13 @@
+params ["_selected"];
+if (!isNull curatorCamera) ExitWith {};
+_cam = uinameSpace getVariable "MRH_SATCAM";
+_viewMode = 0;
+disableSerialization;
+_TypeText = ((findDisplay 9751) displayCtrl 1207);
+if (_selected == 0) then{_viewMode = 0; false setCamUseTi 0; _TypeText ctrlSetStructuredText parsetext "Normal";};
+if (_selected == 1) then{_viewMode = 2; true setCamUseTi 0; _TypeText ctrlSetStructuredText parsetext "FLIR WHOT";};
+if (_selected == 2) then{_viewMode = 7; true setCamUseTi 1; _TypeText ctrlSetStructuredText parsetext "FLIR BHOT";};
+if (_selected == 3) then{_viewMode = 1; true setCamUseTi 0; _TypeText ctrlSetStructuredText parsetext "NV";};
+playSound "visionswitch";
+missionNamespace setVariable ["SelectedViewMode", _viewMode];
+publicVariable "SelectedViewMode";
