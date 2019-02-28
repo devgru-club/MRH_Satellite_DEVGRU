@@ -109,7 +109,7 @@
 			</Key>
 
 		</Container>
-		
+
 		<Container name="FULLSCREENCAM">
 			<Key ID="STR_MRH_FLIRWHOT">
 				<Original>Thermal White Hot</Original>
@@ -127,10 +127,10 @@
 			</Key>
 			<Key ID="STR_MRH_NV">
 				<Original>Night Vision</Original>
-				<English>_</English>
-				<French>_</French>
-				<Spanish>_</Spanish>
-				<German>_</German>
+				<English>Night Vision</English>
+				<French>Night Vision</French>
+				<Spanish>Night Vision</Spanish>
+				<German>Night Vision</German>
 			</Key>
 		</Container>
 		<Container name="KEYBINDS">
@@ -475,12 +475,12 @@
 
 			</Key>
 
-			
-			
-			
-			
+
+
+
+
 		</Container>
-		
+
 		<Container name="UTDUPDATE">
 			<Key ID="STR_MRH_EDSUBCATOBJECTS">
 				<Original>Objects</Original>
