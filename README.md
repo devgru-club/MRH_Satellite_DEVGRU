@@ -1,5 +1,5 @@
 <img src="images/laptop.jpg"></img>
-<img src="images/tablet.jpg"></img>
+<img src="images/tablet.jpg" height="300px" width="300px"></img>
 
 ``
 Disclaimer: Mr. H gave permission to do this on his workshop page. Being a nice guy, he deserves every second of the respect that is about to be given. I will be helping his work move along in the coming months. This is quite literally my favorite mod.
