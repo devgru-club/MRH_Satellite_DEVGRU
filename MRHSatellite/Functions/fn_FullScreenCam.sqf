@@ -41,7 +41,11 @@ _ctrlCOMBO lbadd localize "STR_MRH_FLIRWHOT";
 lbSetData [2100, 1, 1];
 
 _ctrlCOMBO lbadd localize "STR_MRH_FLIRBHOT";
-lbSetData [2100, 2, 2]; 
+lbSetData [2100, 2, 2];
+
+_ctrlCOMBO lbadd localize "STR_MRH_NV";
+lbSetData [2100, 3, 3];
+
 call MRH_fnc_Compass;
 call MRH_fnc_ElevationAndGrid;
 
@@ -49,7 +53,7 @@ call MRH_fnc_GlobalPipRefresh;
 _isTracking = missionNameSpace getVariable "MRH_Follow_tracking";
 if (isNil "_isTracking")then {_isTracking = false;};
 if (_isTracking) then {
-_currentlyTrackedTarget = 
+_currentlyTrackedTarget =
 missionNameSpace getVariable "MRH_CurrentlyTrackedTarget";
 [_currentlyTrackedTarget] call MRH_fnc_TrackingTarget;
 };

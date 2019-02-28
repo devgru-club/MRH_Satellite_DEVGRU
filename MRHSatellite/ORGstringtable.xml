@@ -133,6 +133,7 @@
 				<German>Night Vision</German>
 			</Key>
 		</Container>
+		
 		<Container name="KEYBINDS">
 			<Key ID="STR_MRH_PRETTYNAME_MOVEUP">
 				<Original>Move up</Original>
