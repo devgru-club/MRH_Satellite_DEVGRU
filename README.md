@@ -5,11 +5,17 @@
 Disclaimer: Mr. H gave permission to do this on his workshop page. Being a nice guy, he deserves every second of the respect that is about to be given. I will be helping his work move along in the coming months. This is quite literally my favorite mod.
 Especially since we operate as NAVY Seals @ https://devgru.club/site
 ``
+## Modification List: Function handling, Textures, Night Vision, TFAR Radio Jamming
 
-### COMING SOON: MORE INFORMATION REGARDING THE MODIFICATIONS
+### COMING SOON: MORE INFORMATION REGARDING THE MODIFICATION
+
 ### FOR NOW, ENJOY SOME COPYPASTA OF THE STEAM WORKSHOP DESCRIPTION
-Description
-This mod adds a satellite to Arma 3.
+
+## Description
+
+
+*This mod adds a satellite to Arma 3.*
+
 ## Features:
 
 **New features**
