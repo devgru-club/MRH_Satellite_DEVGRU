@@ -1,3 +1,8 @@
+``
+Disclaimer: Mr. H gave permission to do this on his workshop page. Being a nice guy, he deserves every second of the respect that is about to be given. I will be helping his work move along in the coming months. This is quite literally my favorite mod.
+Especially since we operate as NAVY Seals @ https://devgru.club/site
+``
+
 ### COMING SOON: MORE INFORMATION REGARDING THE MODIFICATIONS
 ### FOR NOW, ENJOY SOME COPYPASTA OF THE STEAM WORKSHOP DESCRIPTION
 Description
